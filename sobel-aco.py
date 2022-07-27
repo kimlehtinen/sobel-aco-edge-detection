@@ -1,11 +1,8 @@
 import numpy
-import scipy
 from scipy import ndimage
-import imageio
+import imageio.v2 as imageio
 import numpy as np
-import cv2
 import matplotlib.pyplot as plt
-import math
 import random
 
 ####
